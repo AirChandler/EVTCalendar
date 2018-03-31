@@ -7,7 +7,7 @@ Lastest release: https://github.com/AirChandler/EVTCalendar/releases
 ## Description
 
 What is EVT Calendar?
-EVTCalendarTBC is an addon to implement a somewhat WoTLK+ blizz-like calendar for Classic. This replaces the clock in the top right with a calendar button, which can be clicked to open the calendar. Alternatively, the calendar can be brought up with "/evt" and moved with "/evt unlock", use "/evt help" to display all options.
+EVTCalendar is an addon to implement a somewhat WoTLK+ blizz-like calendar for Classic. This replaces the clock in the top right with a calendar button, which can be clicked to open the calendar. Alternatively, the calendar can be brought up with "/evt" and moved with "/evt unlock", use "/evt help" to display all options.
 
 This calendar has PARTY/RAID/GUILD communications for custom events (for eg. raids), and all invites are done through these channels. Because there is no access to a serverside database, this calendar is NOT live updating, but works on an invite/confirmation process. The person you want to invite MUST be online for them to receive it. Alternatively, if you wish to confirm yourself for an event, the event creator must be online.
 
