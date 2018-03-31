@@ -2,7 +2,7 @@
 
 An in-game WoTLK Calendar for Classic, based on the original work of TheOneReed and updated/maintained by AirChandler.
 
-Lastest release: https://github.com/AirChandler/EVTCalendar/releases
+Lastest release: https://github.com/AirChandler/EVTCalendar/releases or press 'Clone or Download' and download the .zip, rename the folder with the files in to 'EVTCalendar' and put this folder into your addons directory.
 
 ## Description
 
